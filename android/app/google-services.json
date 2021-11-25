@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "139296035558",
+    "project_id": "daralelag-a5528",
+    "storage_bucket": "daralelag-a5528.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139296035558:android:64a0e52822545a0a05a127",
+        "android_client_info": {
+          "package_name": "com.hospital.daralelag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139296035558-7fuvndddmp6vlqchk73glcs7idsvmeeq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hospital.daralelag",
+            "certificate_hash": "b8044eecadd2e53a18b599017ddcc43df435453a"
+          }
+        },
+        {
+          "client_id": "139296035558-pumna1fb849guh38e1be8ikj3q6t1582.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hospital.daralelag",
+            "certificate_hash": "bd370ab5373e158e86822074ae2a04a8c4cce38b"
+          }
+        },
+        {
+          "client_id": "139296035558-ts5v8sp04fogkvm00jc6geo9suqk8lkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq7FRQtPHfgADcQ_jzpWpcA-4-deEi9jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139296035558-ts5v8sp04fogkvm00jc6geo9suqk8lkt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139296035558-1kmehn158u1pbhu4q4q1hi02bv618828.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hospital.daralelag"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
